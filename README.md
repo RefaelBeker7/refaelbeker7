@@ -12,9 +12,9 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
 
 ## 📬 Get in touch
 
-* :email: Feel free to leave a [message](mailto:shir0206@gmail.com) 
+* 📥 Feel free to leave a [message](mailto:beker.refael@gmail.com) 
 
-* connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
+* connect with me on [**Linkedin**](https://www.linkedin.com/in/refael-beker-9530375b/) *(being an adult)*
 
 ## &#x1f4c8; My GitHub Stats
 <p align='center'>

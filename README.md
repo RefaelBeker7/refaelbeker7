@@ -14,7 +14,7 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
 
 * 📥 Feel free to leave a [message](mailto:beker.refael@gmail.com) 
 
-* connect with me on [**Linkedin**](https://www.linkedin.com/in/refael-beker-9530375b/) *(being an adult)*
+* connect with me on [**Linkedin**](https://www.linkedin.com/in/refael-beker-9530375b/) 
 
 ## &#x1f4c8; My GitHub Stats
 <p align='center'>

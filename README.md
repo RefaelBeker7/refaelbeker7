@@ -25,7 +25,7 @@ I'm a Software Engineer with a demonstrated history of working in the industry ð
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
 
 <p align='center'>
-  <img src="https://refaelbeker7-visitor-badge.glitch.me/badge?page_id=refaelbeker7.visitor-badge">
+  ![](https://komarev.com/ghpvc/?username=refaelbeker7&color=green)
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=refaelbeker7&show_icons=true&count_private=true">

@@ -1,11 +1,10 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" width="300" height="200">
-</p>
-
 ### You've reached Refael's Git! 🤓 Welcome aboard 🚣
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" width="300" height="200">
+</p>
 
 ## ⚡️ About Me
 

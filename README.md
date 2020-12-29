@@ -1,5 +1,5 @@
 <!-- # Hello, nerds 🤓 -->
-### You've reached Refael's Git! Welcome aboard 🤓
+### You've reached Refael's Git! Welcome aboard 🤓🧑‍
 ---
 
 Here are some ideas to get you started:

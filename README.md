@@ -1,8 +1,5 @@
+<!-- # Hello, nerds 🤓 -->
 ### You've reached Refael's Git! Welcome aboard 🤓
----
-<!-- # Hello, nerds 🤓 --> 🎉 😁
-I'm a Software Engineer with a demonstrated history of working in the industry 🧑‍💻. Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 😁 🤖
-
 ---
 
 Here are some ideas to get you started:
@@ -19,20 +16,11 @@ Here are some ideas to get you started:
 
 ## ⚡️ About Me
 
-* 🧑‍🎤 &nbsp;&nbsp; Pronouns: **He/Him**
-* 👾 &nbsp;&nbsp; Passionate about **UX** and why developers should understand it *(ask me about it)*
-* 💚 &nbsp;&nbsp; Love **Vue.js**
-* 👯 &nbsp;&nbsp; I’m looking to collaborate on some Open-source [**Scroll Percentage in Tab Title Chrome Extension**](https://github.com/dimshik100/Scroll-Percentage-in-Tab-Title-Chrome-Extension)
-* 📱 &nbsp;&nbsp; Currently building mobile things just for fun [**Beautiful alarm clock**](https://github.com/dimshik100/Wheely-your-beautiful-alarm-clock)
-
-## 🔍 Where do you usually find me?
-
-* 🧙‍♂️ &nbsp;&nbsp; Managing [**Vue.js Israel**](http://vuejsisrael.com) community 
-* 🎤 &nbsp;&nbsp; Speaking in [**Conferences**](https://youtu.be/PxmyKbqGchI)
-* ✍️ &nbsp;&nbsp; Writing [**Articles**](https://dev.to/dimshik100)
-* 👷‍♂️ &nbsp;&nbsp; Building [**Weird Stuff**](https://dimshik.com)
+I'm a Software Engineer with a demonstrated history of working in the industry 🧑‍💻. Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. 🧙‍♂️ Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 👷‍♂️
 
 ## 📬 Get in touch
+
+* :email: Feel free to leave a [message](mailto:shir0206@gmail.com) 
 
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
 

@@ -1,7 +1,7 @@
 ### You've reached Refael's Git! Welcome aboard 🤓
-
-<!-- # Hello, nerds 🤓 -->🧑‍💻 🎉 😁
-I'm a Software Engineer with a demonstrated history of working in the industry 🤖 💻. Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 😁 🎉
+---
+<!-- # Hello, nerds 🤓 --> 🎉 😁
+I'm a Software Engineer with a demonstrated history of working in the industry 🧑‍💻. Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 😁 🤖
 
 ---
 

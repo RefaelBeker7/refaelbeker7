@@ -1,10 +1,14 @@
 <!-- # Hello, nerds 🤓 -->
 ### You've reached Refael's Git! 🤓 Welcome aboard 🚣
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e47wjrp8l8swqf31foxsloqwabmv5uh53cae5cifgyx&rid=giphy.gif">
+</p>
 ---
 
 ## ⚡️ About Me
 
-I'm a Software Engineer with a demonstrated history of working in the industry 🧑‍💻. Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. 🧙‍♂️ Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 👷‍♂️
+I'm a Software Engineer with a demonstrated history of working in the industry. 🧑‍💻 Skilled in Java, C#, C, Data Structures, Design Patterns, Cognitive Thinking, Object-Oriented Programming (OOP), Planning, and Building fault-tolerant systems. 🧙‍♂️ Strong engineering professional with a Bachelor's from Afeka Tel Aviv Academic College of Engineering. 👷‍♂️
 
 ## 📬 Get in touch
 

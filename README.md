@@ -1,10 +1,11 @@
-<!-- # Hello, nerds 🤓 -->
-### You've reached Refael's Git! 🤓 Welcome aboard 🚣
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e47wjrp8l8swqf31foxsloqwabmv5uh53cae5cifgyx&rid=giphy.gif">
+  <img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif">
 </p>
+
+### You've reached Refael's Git! 🤓 Welcome aboard 🚣
 ---
+
 
 ## ⚡️ About Me
 

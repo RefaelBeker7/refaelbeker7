@@ -1,5 +1,5 @@
 
-### You've reached Refael's Git! 🤓 Welcome aboard 🚣
+### Welcome aboard ! 🚣 You've reached Refael's Git 🤓 
 ---
 
 <p align="center">

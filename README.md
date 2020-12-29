@@ -24,8 +24,9 @@ I'm a Software Engineer with a demonstrated history of working in the industry ð
 
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
 
+## &#x1f4c8; My GitHub Stats
 <p align='center'>
-  ![](https://komarev.com/ghpvc/?username=refaelbeker7&color=green)
+  <img src="https://komarev.com/ghpvc/?username=refaelbeker7&color=blueviolet">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=refaelbeker7&show_icons=true&count_private=true">

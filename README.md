@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif">
+  <img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" width="200" height="300">
 </p>
 
 ### You've reached Refael's Git! 🤓 Welcome aboard 🚣

@@ -25,7 +25,7 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=refaelbeker7&show_icons=true&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbeker7&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbeker7&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbeker7&layout=compact" />
 </a>
 
 <br /><br />

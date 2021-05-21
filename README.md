@@ -28,10 +28,10 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaelbeker7&layout=compact" />
 </a>
 
-<br /><br /><br />
+<br /><br />
 <p align='center'>
   ## GitHub Stars Sparklines
-  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+  <img align="left" src="https://stars.medv.io/Naereen/badges.svg" />
 </p>
 
 <!--

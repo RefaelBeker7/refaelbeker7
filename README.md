@@ -29,9 +29,10 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
 </a>
 
 <br />
-## GitHub Stars Sparklines
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
+<p align='center'>
+  ## GitHub Stars Sparklines
+  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+</p>
 
 <!--
 **RefaelBeker7/refaelbeker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

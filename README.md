@@ -29,8 +29,8 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
 </a>
 
 <br /><br />
+## GitHub Stars Sparklines
 <p align='center'>
-  ## GitHub Stars Sparklines
   <img align="left" src="https://stars.medv.io/Naereen/badges.svg" />
 </p>
 

@@ -31,9 +31,7 @@ I'm a Software Engineer with a demonstrated history of working in the industry. 
 <br /><br />
 ## GitHub Stars Sparklines
 <p align='center'>
-  <img align="left" src="https://stars.medv.io/Naereen/badges.svg" />
+  <img src="https://stars.medv.io/Naereen/badges.svg" />
 </p>
 
-<!--
-**RefaelBeker7/refaelbeker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
